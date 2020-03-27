@@ -1,0 +1,30 @@
+\\192.168.4.7\mis\SourceProgramC#\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\bin\Debug\Acc_Stock_Average.exe.config
+\\192.168.4.7\mis\SourceProgramC#\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.csprojResolveAssemblyReference.cache
+\\192.168.4.7\mis\SourceProgramC#\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.Properties.Resources.resources
+\\192.168.4.7\mis\SourceProgramC#\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.Stock_Average.resources
+\\192.168.4.7\mis\SourceProgramC#\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.csproj.GenerateResource.Cache
+\\192.168.4.7\mis\SourceProgramC#\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\bin\Debug\Acc_Stock_Average.exe
+\\192.168.4.7\mis\SourceProgramC#\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\bin\Debug\Acc_Stock_Average.pdb
+\\192.168.4.7\mis\SourceProgramC#\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.exe
+\\192.168.4.7\mis\SourceProgramC#\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.pdb
+\\192.168.4.7\mis\SourceProgramC# - 20181101\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\bin\Debug\Acc_Stock_Average.exe.config
+\\192.168.4.7\mis\SourceProgramC# - 20181101\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.exe
+\\192.168.4.7\mis\SourceProgramC# - 20181101\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.pdb
+\\192.168.4.7\mis\SourceProgramC# - 20181101\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\bin\Debug\Acc_Stock_Average.exe
+\\192.168.4.7\mis\SourceProgramC# - 20181101\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\bin\Debug\Acc_Stock_Average.pdb
+\\192.168.4.7\mis\SourceProgramC# - 20181101\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.csprojResolveAssemblyReference.cache
+\\192.168.4.7\mis\SourceProgramC# - 20181101\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.Properties.Resources.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.Stock_Average.resources
+\\192.168.4.7\mis\SourceProgramC# - 20181101\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.csproj.GenerateResource.Cache
+\\192.168.4.7\mis\SourceProgramC# - 20181101\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.ProgressForm.resources
+\\192.168.4.7\mis\SourceProgramC#\Acc_Stock_Average\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.ProgressForm.resources
+D:\MyProject\Acc_Stock_Average\Acc_Stock_Average\bin\Debug\Acc_Stock_Average.exe.config
+D:\MyProject\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.exe
+D:\MyProject\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.pdb
+D:\MyProject\Acc_Stock_Average\Acc_Stock_Average\bin\Debug\Acc_Stock_Average.exe
+D:\MyProject\Acc_Stock_Average\Acc_Stock_Average\bin\Debug\Acc_Stock_Average.pdb
+D:\MyProject\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.csprojResolveAssemblyReference.cache
+D:\MyProject\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.ProgressForm.resources
+D:\MyProject\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.Properties.Resources.resources
+D:\MyProject\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.Stock_Average.resources
+D:\MyProject\Acc_Stock_Average\Acc_Stock_Average\obj\Debug\Acc_Stock_Average.csproj.GenerateResource.Cache
